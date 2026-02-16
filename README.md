@@ -22,11 +22,12 @@ O objetivo é demonstrar boas práticas de arquitetura, organização e qualidad
 ## 🧱 Arquitetura em camadas
 
 A aplicação segue uma arquitetura limpa e modular:
-# app/ ├── main.py              
-# Inicialização da aplicação ├── routers/             
-# Controladores HTTP ├── schemas/             
-# Validação e tipagem (Pydantic) ├── services/            
-# Regras de negócio └── init.py
+# app/ 
+# ├── main.py Inicialização da aplicação 
+# ├── routers/  Controladores HTTP 
+# ├── schemas/  Validação e tipagem (Pydantic) 
+# ├── services/ Regras de negócio 
+# └── init.py
 
 
 ### ✔ Benefícios
