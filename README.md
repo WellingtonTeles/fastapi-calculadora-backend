@@ -43,20 +43,30 @@ A aplicação segue uma arquitetura limpa e modular:
 ## 📁 Estrutura do projeto
 
 # fastapi-calculadora-backend/ │
-# ├── app/ │
-#    ├── main.py │
-#    ├── routers/ │   │
-#    └── calculadora_router.py │
-#    ├── schemas/ │
-#    │   └── operacao_schema.py │
-#    ├── services/ │   │
-#    └── calculadora_service.py │
-#  ├── tests/ │
-#    └── test_calculadora.py │
-#  ├── .github/ │
-#    └── workflows/ │
-#        └── tests.yml │
-#  ├── .gitignore └── README.md
+# ├── app/ 
+# ├── main.py │
+# ├── routers/ │
+# │
+# └── calculadora_router.py 
+# │
+# ├── schemas/ 
+#     │
+#     └── operacao_schema.py
+# │
+# ├── services/ 
+# │   │
+#     └── calculadora_service.py 
+# │
+# ├── tests/ 
+#     │
+#     └── test_calculadora.py │
+# ├── .github/ 
+#      │
+#      └── workflows/ 
+#          │
+#          └── tests.yml │
+# ├── .gitignore 
+# └── README.md
 
 ---
 
@@ -166,23 +176,31 @@ The application follows a clean and modular structure:
 ---
 
 ## 📁 Project structure
-
-
 # fastapi-calculadora-backend/ │
-# ├── app/ │
-#    ├── main.py │
-#    ├── routers/ │   │
-#    └── calculadora_router.py │
-#    ├── schemas/ │
-#    │   └── operacao_schema.py │
-#    ├── services/ │   │
-#    └── calculadora_service.py │
-#  ├── tests/ │
-#    └── test_calculadora.py │
-#  ├── .github/ │
-#    └── workflows/ │
-#        └── tests.yml │
-#  ├── .gitignore └── README.md
+# ├── app/ 
+# ├── main.py │
+# ├── routers/ │
+# │
+# └── calculadora_router.py 
+# │
+# ├── schemas/ 
+#     │
+#     └── operacao_schema.py
+# │
+# ├── services/ 
+# │   │
+#     └── calculadora_service.py 
+# │
+# ├── tests/ 
+#     │
+#     └── test_calculadora.py │
+# ├── .github/ 
+#      │
+#      └── workflows/ 
+#          │
+#          └── tests.yml │
+# ├── .gitignore 
+# └── README.md
 
 ---
 
